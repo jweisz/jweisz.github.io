@@ -1,0 +1,23 @@
+/*******************************************************************************
+ * Site-specific styles layered on top of al_folio_core.
+ * Loaded last from assets/css/main.scss so these rules win over theme defaults.
+ ******************************************************************************/
+
+:root {
+  --global-search-highlight-color: #ffe066;
+}
+
+html[data-theme="dark"] {
+  --global-search-highlight-color: rgba(255, 214, 10, 0.4);
+}
+
+// Publication search matches: a marker-style highlight instead of the theme color
+::highlight(search) {
+  background-color: var(--global-search-highlight-color);
+}
+
+// Badges with a per-venue color (_data/venues.yml) always use white text
+.publications ol.bibliography li .abbr abbr[style],
+.publications ol.bibliography li .abbr abbr[style] * {
+  color: white !important;
+}

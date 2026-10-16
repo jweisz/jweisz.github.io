@@ -13,6 +13,16 @@ run = [
 description = "Serve the site in Docker at http://localhost:8080 (no local Ruby needed)"
 run = "docker compose up"
 
+[tasks.upstream]
+description = "Merge the latest al-folio release into the current branch, then audit local overrides"
+run = [
+  "git fetch upstream --tags",
+  "git merge --no-edit $(git describe --tags --abbrev=0 upstream/main)",
+  "bundle install",
+  "bundle exec al-folio upgrade audit --no-fail",
+  "bundle exec al-folio upgrade overrides audit",
+]
+
 [tasks.build]
 description = "Build the site into _site/"
 run = [

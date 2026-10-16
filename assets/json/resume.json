@@ -2,15 +2,10 @@
   "basics": {
     "name": "Justin D. Weisz, Ph.D.",
     "label": "Human-Centered AI Research Scientist",
-    "image": "",
     "email": "web@jweisz.org",
-    "phone": "",
     "url": "https://jweisz.org/",
     "summary": "Research leader in human-centered AI focused on designing useful, safe, and personal AI systems that amplify and augment human capabilities. ACM Senior Member with numerous publications in top-tier HCI & AI venues including CHI, IUI, CSCW, FAccT, AIES, ICML, and IJCAI. Research topics span human-AI collaboration & co-creativity; agentic AI; responsible & human-centered explainable AI (HCXAI); and AI risk, governance, and evaluation. Versed in qualitative, quantitative, prototyping, crowdsourcing, and speculative design methods, with extensive experience collaborating with AI & ML researchers, engineers, product managers, and designers to prototype the future and deliver research insights into shipped products.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
       "countryCode": "US",
       "region": "New York"
     },
@@ -51,10 +46,7 @@
     {
       "name": "Independent",
       "position": "AI Research & Product Advisor",
-      "url": "",
-      "location": "",
       "startDate": "2026",
-      "summary": "",
       "highlights": [
         "<a href=\"https://www.snorkle.ai/\">Snorkle Labs</a>: Advising on business, IP, tech stack, and funding strategy for a health care data visualization startup. Creating a new AI product to educate patients on medical conditions and treatment options.",
         "<a href=\"https://www.splitstay.travel/\">SplitStay</a>: Advising on research, product, and IP strategy for a group travel coordination startup, with a focus on using AI for preference elicitation & negotiation.",
@@ -64,11 +56,9 @@
     {
       "name": "IBM T.J. Watson Research Center",
       "position": "Senior Research Scientist, Manager, and Strategy Lead, Human-Centered Trustworthy AI",
-      "url": "",
       "location": "Yorktown Heights, NY",
       "startDate": "2022",
       "endDate": "2025",
-      "summary": "",
       "highlights": [
         "Co-led global research strategy on human-centered trustworthy AI, overseeing 30+ research scientists, engineers, and designers with backgrounds spanning AI, machine learning, and human-computer interaction. Research topics spanned human-AI collaboration & co-creation; personal AI & mutual theory of mind; AI risk identification & mitigation; contextual privacy in LLMs; agentic AI development & multi-agent collaboration under differing value alignments; factuality assessment; and disclosure of AI use in co-creative processes.",
         "HCAI research portfolio recognized by IBM as having an Outstanding scientific impact from 2017-2025: 50+ papers garnering 3,500+ citations, 10 papers with > 100 citations, 14 organized workshops, and multiple open source projects (e.g. <a href=\"https://github.com/IBM/qux360\">QUX360</a>, <a href=\"https://ibm.github.io/eval-assist/\">EvalAssist</a>, <a href=\"https://github.com/IBM/contextual-privacy-LLM\">Contextual Privacy Toolkit</a>, <a href=\"https://github.com/CSAILVision/gandissect\">GANDissect</a>, <a href=\"https://github.com/HendrikStrobelt/detecting-fake-text\">GLTR</a>, <a href=\"https://github.com/HendrikStrobelt/LMdiff\">LMDiff</a>, <a href=\"https://github.com/poloclub/transformer-explainer\">Transformer Explainer</a>, <a href=\"https://github.com/poloclub/diffusion-explainer\">Diffusion Explainer</a>).",
@@ -82,11 +72,9 @@
     {
       "name": "IBM T.J. Watson Research Center",
       "position": "Manager & Strategy Lead, Human-AI Collaboration",
-      "url": "",
       "location": "Yorktown Heights, NY",
       "startDate": "2019",
       "endDate": "2022",
-      "summary": "",
       "highlights": [
         "Led research strategy on human-AI collaboration focused on trustworthy AI systems (fairness, explainability), human-centered automation of data science, and human-AI co-creation with generative models."
       ]
@@ -94,11 +82,9 @@
     {
       "name": "IBM T.J. Watson Research Center",
       "position": "Research Staff Member, HCI of AI",
-      "url": "",
       "location": "Yorktown Heights, NY",
       "startDate": "2018",
       "endDate": "2019",
-      "summary": "",
       "highlights": [
         "Developed a research agenda to train users to have effective interactions with conversational AI."
       ]
@@ -106,11 +92,9 @@
     {
       "name": "IBM T.J. Watson Research Center",
       "position": "Senior Manager, Emerging Technology Research",
-      "url": "",
       "location": "Yorktown Heights, NY",
       "startDate": "2016",
       "endDate": "2018",
-      "summary": "",
       "highlights": [
         "Led a team of researchers and software engineers to develop novel methods for interacting with and programming emerging technologies, including quantum computers, drones, and other IoT devices."
       ]
@@ -118,11 +102,9 @@
     {
       "name": "IBM T.J. Watson Research Center",
       "position": "Senior Manager, Mobile Solutions & Infrastructure",
-      "url": "",
       "location": "Yorktown Heights, NY",
       "startDate": "2015",
       "endDate": "2016",
-      "summary": "",
       "highlights": [
         "Led a cross-disciplinary team to produce novel mobile & wearable solutions in healthcare and UAV solutions in agriculture."
       ]
@@ -130,11 +112,9 @@
     {
       "name": "IBM T.J. Watson Research Center",
       "position": "Manager, Mobile Solutions & Infrastructure",
-      "url": "",
       "location": "Yorktown Heights, NY",
       "startDate": "2013",
       "endDate": "2015",
-      "summary": "",
       "highlights": [
         "Led a cross-disciplinary team to produce novel mobile & wearable solutions for field service technicians, middleware for migrating data to the cloud, and transformative mobile applications for multiple industries."
       ]
@@ -142,11 +122,9 @@
     {
       "name": "IBM T.J. Watson Research Center",
       "position": "Research Staff Member, Next Generation Technologies",
-      "url": "",
       "location": "Yorktown Heights, NY",
       "startDate": "2010",
       "endDate": "2013",
-      "summary": "",
       "highlights": [
         "Developed analytics pipelines for identifying emotional content in email and instant message data, designed visualizations for an expertise-building recommender system, and developed location-based services for WebSphere Commerce."
       ]
@@ -154,11 +132,9 @@
     {
       "name": "Carnegie Mellon University",
       "position": "Graduate Research Assistant",
-      "url": "",
       "location": "Pittsburgh, PA",
       "startDate": "2003",
       "endDate": "2009",
-      "summary": "",
       "highlights": [
         "Examined the experience of conversing while watching online videos via controlled experiments and field studies, and identified social benefits of group-based online video watching for both friends and strangers, despite distractive aspects of chat.",
         "Designed a new visual representation of large-scale online audiences.",
@@ -168,11 +144,9 @@
     {
       "name": "IBM T.J. Watson Research Center",
       "position": "Research Intern, Social Computing Group (2005) & Enhanced Web Experience Group (2004)",
-      "url": "",
       "location": "Hawthorne, NY",
       "startDate": "2004",
       "endDate": "2005",
-      "summary": "",
       "highlights": [
         "Across two internships, applied qualitative, quantitative, and visualization methods to examine use of IBM Community Tools (ICT), an instant messaging platform supporting topical group chats."
       ]
@@ -199,8 +173,7 @@
       "area": "Computer Science",
       "studyType": "M.S.",
       "startDate": "2003",
-      "endDate": "2007",
-      "courses": []
+      "endDate": "2007"
     },
     {
       "institution": "Carnegie Mellon University",
@@ -220,57 +193,45 @@
     {
       "title": "IBM Outstanding Technical Achievement Award: AI Governance Innovations to watsonx.gov and Open Source",
       "date": "2025",
-      "awarder": "IBM",
-      "url": "",
-      "summary": ""
+      "awarder": "IBM"
     },
     {
       "title": "IBM Outstanding Technical Achievement Award: Leadership in Human-AI Co-Creation",
       "date": "2024",
-      "awarder": "IBM",
-      "url": "",
-      "summary": ""
+      "awarder": "IBM"
     },
     {
       "title": "IBM Technical Achievement Award: Generative AI for Designers",
       "date": "2023",
-      "awarder": "IBM",
-      "url": "",
-      "summary": ""
+      "awarder": "IBM"
     },
     {
       "title": "IBM Technical Achievement Award: Leadership in Human-AI Co-Creation",
       "date": "2022",
-      "awarder": "IBM",
-      "url": "",
-      "summary": ""
+      "awarder": "IBM"
     },
     {
       "title": "IBM Pat Goldberg Memorial Best Paper Honorable Mention",
       "date": "2022",
       "awarder": "IBM Research",
-      "url": "",
       "summary": "For \"Better Together? An Evaluation of AI-Supported Code Translation\" (IUI 2022)."
     },
     {
       "title": "IBM Volunteer Excellence Award",
       "date": "2021",
       "awarder": "IBM",
-      "url": "",
       "summary": "For contributions to TJBot classroom learning activities in support of Vietnam Teacher's Day."
     },
     {
       "title": "IBM Outstanding Technical Achievement Award: Research Contributions to IBM Watson AutoAI",
       "date": "2019",
       "awarder": "IBM",
-      "url": "https://www.ibm.com/docs/en/watsonx/saas?topic=solutions-autoai-machine-learning",
-      "summary": ""
+      "url": "https://www.ibm.com/docs/en/watsonx/saas?topic=solutions-autoai-machine-learning"
     },
     {
       "title": "IBM Master Inventor",
       "date": "2016",
       "awarder": "IBM",
-      "url": "",
       "summary": "Appointed for IP mentorship activities and development of IP in areas strategic to IBM."
     }
   ],
@@ -278,31 +239,26 @@
     {
       "name": "TJBot: Community Edition",
       "summary": "Modernized TJBot software stack with TypeScript and Python libraries and support for on-device STT/TTS/Vision models.",
-      "highlights": [],
       "url": "https://tjbot-ce.github.io"
     },
     {
       "name": "Idea Gauntlet",
       "summary": "Web-based game for debating ideas against AI agents, designed to showcase how AI can help improve critical-thinking skills.",
-      "highlights": [],
       "url": "https://idea-gauntlet.onrender.com"
     },
     {
       "name": "Entanglion",
       "summary": "World's first open source board game to teach fundamental principles of quantum computing. Used in hundreds of high school and university classrooms as part of curriculum.",
-      "highlights": [],
       "url": "https://entanglion.github.io"
     },
     {
       "name": "CardKit",
       "summary": "Card-based programming method to enable business users to program IoT devices with AI services.",
-      "highlights": [],
       "url": "https://github.com/CardKit/"
     },
     {
       "name": "TJBot",
       "summary": "Paper / 3D-printed robot designed to teach people how to program with IBM's Watson AI services. Used by hundreds of thousands of students & makers worldwide.",
-      "highlights": [],
       "url": "https://ibmtjbot.github.io"
     }
   ],
@@ -312,18 +268,14 @@
       "position": "Workshop Co-chair, AgentCraft: Workshop on Developing Trustworthy Agentic AI Systems",
       "url": "https://agentcraft-iui.github.io/2026/",
       "startDate": "2026",
-      "endDate": "2026",
-      "summary": "",
-      "highlights": []
+      "endDate": "2026"
     },
     {
       "organization": "ACM CHI & CUI",
       "position": "Workshop Co-chair, Theory of Mind in Human-AI Interaction (ToMinHAI, ToMinCUI)",
       "url": "https://tominhai-cui2025.github.io",
       "startDate": "2024",
-      "endDate": "2025",
-      "summary": "",
-      "highlights": []
+      "endDate": "2025"
     },
     {
       "organization": "ACM CHI",
@@ -331,50 +283,39 @@
       "url": "https://hcxai.jimdosite.com",
       "startDate": "2023",
       "endDate": "2026",
-      "summary": "2023, 2025, 2026",
-      "highlights": []
+      "summary": "2023, 2025, 2026"
     },
     {
       "organization": "ACM IUI",
       "position": "Workshop Co-chair, Human-AI Co-Creation with Generative Models (HAI-GEN)",
       "url": "https://hai-gen.github.io/2025",
       "startDate": "2021",
-      "endDate": "2025",
-      "summary": "",
-      "highlights": []
+      "endDate": "2025"
     },
     {
       "organization": "ACM CSCW",
       "position": "Associate Chair",
-      "url": "",
       "startDate": "2021",
       "endDate": "2023",
-      "summary": "2021, 2023",
-      "highlights": []
+      "summary": "2021, 2023"
     },
     {
       "organization": "ACM CHI, CSCW, IUI",
       "position": "Reviewer",
-      "url": "",
       "startDate": "2006",
-      "summary": "CHI (2006 – present), CSCW (2006 – present), IUI (2014 – present)",
-      "highlights": []
+      "summary": "CHI (2006 – present), CSCW (2006 – present), IUI (2014 – present)"
     },
     {
       "organization": "Medium",
       "position": "Founder & Editor-in-Chief, Human-Centered AI publication",
       "url": "https://medium.com/human-centered-ai",
-      "startDate": "2023",
-      "summary": "",
-      "highlights": []
+      "startDate": "2023"
     },
     {
       "organization": "Georgia Tech & Bauhaus-Universität Weimar",
       "position": "Student Advising",
-      "url": "",
       "startDate": "2024",
       "endDate": "2025",
-      "summary": "",
       "highlights": [
         "Advisor, HCI M.S. Capstone, Amin El Asery & Lakshya Sharma, Georgia Tech",
         "Referee, M.S. Thesis, Jule Ebeling, Bauhaus-Universität Weimar, Germany"
@@ -383,10 +324,8 @@
     {
       "organization": "IBM Research",
       "position": "Internal Service",
-      "url": "",
       "startDate": "2010",
       "endDate": "2025",
-      "summary": "",
       "highlights": [
         "Invention Disclosure Team (IDT) member, reviewing patent disclosures related to AI and HCI (2018 – 2025)",
         "Pat Goldberg Memorial Best Paper Award committee: reviewer (2017 – 2021), co-chair (2022 – 2025)",
@@ -398,11 +337,9 @@
     {
       "organization": "Carnegie Mellon University",
       "position": "Board Member, Alumni Advisory Board, School of Computer Science",
-      "url": "",
       "startDate": "2011",
       "endDate": "2020",
-      "summary": "Provided feedback to the Dean of Computer Science on new department initiatives, faculty hiring, curriculum, and student career opportunities.",
-      "highlights": []
+      "summary": "Provided feedback to the Dean of Computer Science on new department initiatives, faculty hiring, curriculum, and student career opportunities."
     }
   ],
   "patents": [
@@ -585,7 +522,6 @@
   "skills": [
     {
       "name": "AI / ML",
-      "level": "",
       "icon": "fa-solid fa-robot",
       "keywords": [
         "Agentic AI & LLM frameworks",
@@ -596,7 +532,6 @@
     },
     {
       "name": "Human-Computer Interaction",
-      "level": "",
       "icon": "fa-solid fa-users",
       "keywords": [
         "Experimental design & statistical analysis",
@@ -608,7 +543,6 @@
     },
     {
       "name": "Development",
-      "level": "",
       "icon": "fa-solid fa-code",
       "keywords": [
         "Python, R, TypeScript",
@@ -618,7 +552,6 @@
     },
     {
       "name": "Leadership",
-      "level": "",
       "icon": "fa-solid fa-compass",
       "keywords": [
         "Research program design & portfolio management",
