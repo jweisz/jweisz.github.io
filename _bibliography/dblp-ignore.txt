@@ -1,0 +1,3 @@
+# DBLP entries that `mise run pubs` (bin/update_pubs.py) should never import.
+# One key per line: either the full DBLP key (DBLP:conf/chi/WeiszHMMG24)
+# or the key as it appears in papers.bib (WeiszHMMG24). Lines starting with # are comments.

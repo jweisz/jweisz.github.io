@@ -23,6 +23,10 @@ run = [
   "bundle exec al-folio upgrade overrides audit",
 ]
 
+[tasks.pubs]
+description = "Add new publications from DBLP to papers.bib (optionally from a downloaded .bib file)"
+run = "python3 -I bin/update_pubs.py"
+
 [tasks.build]
 description = "Build the site into _site/"
 run = [
