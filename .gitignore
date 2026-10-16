@@ -12,3 +12,6 @@ node_modules/
 vendor
 .idea
 .venv
+
+# private reference material (CV source, cover letters, etc.)
+docs/

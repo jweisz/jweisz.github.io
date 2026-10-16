@@ -761,6 +761,12 @@ footer.sticky-bottom {
           margin-bottom: 0.5rem;
           color: var(--global-card-bg-color) !important;
 
+          // Badges with a per-venue color (_data/venues.yml) always use white text
+          &[style],
+          &[style] * {
+            color: white !important;
+          }
+
           a {
             color: white;
 
@@ -1415,7 +1421,7 @@ ninja-keys::part(ninja-input-wrapper) {
 
 // highlight-search-term
 ::highlight(search) {
-  background-color: var(--global-theme-color);
+  background-color: var(--global-search-highlight-color);
   color: var(--global-text-color);
 }
 

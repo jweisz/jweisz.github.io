@@ -1,14 +1,19 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jweisz
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - tjbot-ce/tjbot
+  - tjbot-ce/node-tjbotlib
+  - tjbot-ce/python-tjbotlib
+  - ibmtjbot/tjbot
+  - ibmtjbot/node-tjbotlib
+  - Entanglion/entanglion
+  - jweisz/entanglion-simulator
+  - jweisz/idea-gauntlet
+  - jweisz/story-arena
+  - jweisz/tjbot-playground
+  - CardKit/cardkit
+  - aiattribution/aiattribution.github.io
+  - jweisz/iui22-code-translation

@@ -1,0 +1,21 @@
+[tools]
+ruby = "3.2.2"
+
+[tasks.start]
+description = "Serve the site at http://localhost:4000 with live reload"
+run = [
+  "command -v magick >/dev/null || echo 'warning: ImageMagick not found (brew install imagemagick)'",
+  "bundle check >/dev/null || bundle install",
+  "bundle exec jekyll serve --livereload",
+]
+
+[tasks."start:docker"]
+description = "Serve the site in Docker at http://localhost:8080 (no local Ruby needed)"
+run = "docker compose up"
+
+[tasks.build]
+description = "Build the site into _site/"
+run = [
+  "bundle check >/dev/null || bundle install",
+  "bundle exec jekyll build",
+]

@@ -1,9 +1,57 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Per-venue badge colors on the publications page, keyed by the bib `abbr` field.
+# Venues are grouped into families that share a color. All colors keep white
+# badge text at WCAG AA contrast (>= 4.5:1). An optional `url:` links the badge.
 
-"PhysRev":
-  url: https://journals.aps.org/
+# CHI family
+"CHI": &chi
+  color: "#1f5fa8"
+"CHI EA": *chi
+"CHI PLAY": *chi
+"CHIWORK": *chi
+"TOCHI": *chi
 
-"Vision":
-  color: "#009f36"
+# IUI family
+"IUI": &iui
+  color: "#0b7a6e"
+"IUI Comp.": *iui
+"IUI WS": *iui
+
+# Other HCI venues
+"CSCW": &hci
+  color: "#5b4fa8"
+"CUI": *hci
+"UMAP": *hci
+"UXTV": *hci
+
+# AI / ML / NLP / data mining
+"ICML": &ai
+  color: "#b4472a"
+"IJCAI": *ai
+"ACL": *ai
+"AAAI WS": *ai
+"KDD WS": *ai
+"CIKM WS": *ai
+
+# AI ethics & governance
+"FAccT": &ethics
+  color: "#2e7d32"
+"AIES": *ethics
+
+# Computational creativity
+"ICCC": &creativity
+  color: "#a3326a"
+"ICCC WS": *creativity
+
+# Mobile & networked systems
+"MobiCom": &systems
+  color: "#7a5c12"
+"COMSNETS": *systems
+
+# Journals & books
+"IBM JRD": &pub
+  color: "#37474f"
+"Book": *pub
+
+# Preprints
+"arXiv":
+  color: "#6b7280"

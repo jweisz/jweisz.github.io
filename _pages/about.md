@@ -2,33 +2,45 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Human-Centered AI Research Scientist · ACM Senior Member
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>New York</p>
+    <p><a href="mailto:web@jweisz.org">web@jweisz.org</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a research scientist in **human-centered AI**. I study how to design AI systems that amplify and augment human capabilities, rather than replace them. My work focuses on three questions:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- **Useful AI**: How do we build domain-specific AI that fits into people's real workflows, in areas such as software engineering, design, and product management?
+- **Safe AI**: How do we help the people who build and use AI understand its risks and choose the right mitigations?
+- **Personal AI**: How can AI systems model their users' goals, knowledge, and intentions, and how can they make those models visible so that people and AI develop a _mutual_ understanding of each other?
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I use mixed methods: qualitative studies to understand a problem space, prototyping to explore new forms of interaction, controlled experiments to measure effects, crowdsourcing to gather feedback at scale, and speculative design to reason about longer-term consequences. One lesson runs through much of my work: [AI doesn't have to be perfect to be useful](/projects/7_programmers_assistant/). To be useful, though, it has to fit people's workflows, minimize harm, and adapt to the people using it. More on this is on my [research](/research/) page.
+
+For about fifteen years I was at **IBM Research**, most recently as a Senior Research Scientist, Manager, and Strategy Lead for Human-Centered Trustworthy AI. In that role I co-led a global research agenda involving 30+ scientists, engineers, and designers. Highlights include:
+
+- the [Design Principles for Generative AI Applications](https://dl.acm.org/doi/10.1145/3613904.3642466), among the most-downloaded CHI papers in the ACM Digital Library
+- the first version of the [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas)
+- research on conversational programming assistance that informed IBM's watsonx Code Assistant
+- open source projects such as [TJBot](/projects/4_tjbot/) and [Entanglion](/projects/3_entanglion/)
+
+I've also co-organized the long-running [HAI-GEN](https://hai-gen.github.io/2025), [HCXAI](https://hcxai.jimdosite.com), and Theory of Mind in Human-AI Interaction workshop series, and I founded the [Human-Centered AI](https://medium.com/human-centered-ai) publication on Medium.
+
+Today I advise startups and research labs on AI research and product strategy. I received my Ph.D. in Computer Science from [Carnegie Mellon University](https://www.cs.cmu.edu/), where I was advised by Sara Kiesler and Hui Zhang.
