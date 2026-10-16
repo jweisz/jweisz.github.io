@@ -2,7 +2,7 @@
 layout: page
 title: Story Arena
 description: A multi-agent environment for envisioning the future of software engineering through collaborative AI storytelling.
-importance: 6
+importance: 5
 category: open source
 github: https://github.com/jweisz/story-arena
 related_publications: true

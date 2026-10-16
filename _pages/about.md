@@ -30,14 +30,14 @@ I'm a research scientist in **human-centered AI**. I study how to design AI syst
 - **Safe AI**: How do we help the people who build and use AI understand its risks and choose the right mitigations?
 - **Personal AI**: How can AI systems model their users' goals, knowledge, and intentions, and how can they make those models visible so that people and AI develop a _mutual_ understanding of each other?
 
-I use mixed methods: qualitative studies to understand a problem space, prototyping to explore new forms of interaction, controlled experiments to measure effects, crowdsourcing to gather feedback at scale, and speculative design to reason about longer-term consequences. One lesson runs through much of my work: [AI doesn't have to be perfect to be useful](/projects/7_programmers_assistant/). To be useful, though, it has to fit people's workflows, minimize harm, and adapt to the people using it. More on this is on my [research](/research/) page.
+I use mixed methods: qualitative studies to understand a problem space, prototyping to explore new forms of interaction, controlled experiments to measure effects, crowdsourcing to gather feedback at scale, and speculative design to reason about longer-term consequences. One lesson runs through much of my work: [AI doesn't have to be perfect to be useful](/projects/ai_for_software_engineers/). To be useful, though, it has to fit people's workflows, minimize harm, and adapt to the people using it. More on this is on my [research](/research/) page.
 
 For about fifteen years I was at **IBM Research**, most recently as a Senior Research Scientist, Manager, and Strategy Lead for Human-Centered Trustworthy AI. In that role I co-led a global research agenda involving 30+ scientists, engineers, and designers. Highlights include:
 
 - the [Design Principles for Generative AI Applications](https://dl.acm.org/doi/10.1145/3613904.3642466), among the most-downloaded CHI papers in the ACM Digital Library
 - the first version of the [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas)
 - research on conversational programming assistance that informed IBM's watsonx Code Assistant
-- open source projects such as [TJBot](/projects/4_tjbot/) and [Entanglion](/projects/3_entanglion/)
+- open source projects such as [TJBot](/projects/tjbot/) and [Entanglion](/projects/entanglion/)
 
 I've also co-organized the long-running [HAI-GEN](https://hai-gen.github.io/2025), [HCXAI](https://hcxai.jimdosite.com), and Theory of Mind in Human-AI Interaction workshop series, and I founded the [Human-Centered AI](https://medium.com/human-centered-ai) publication on Medium.
 

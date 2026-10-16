@@ -2,7 +2,7 @@
 layout: page
 title: CardKit
 description: A card-based programming framework that lets business users program drones and IoT devices with AI services.
-importance: 5
+importance: 4
 category: open source
 github: https://github.com/CardKit/cardkit
 related_publications: true

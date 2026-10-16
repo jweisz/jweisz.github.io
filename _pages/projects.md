@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Open source projects and research systems I've built or led.
+description: Open source projects I've built, and the research areas I've published in.
 nav: true
 nav_order: 4
-display_categories: [open source, research systems]
+display_categories: [open source, research areas]
 horizontal: false
 ---
 

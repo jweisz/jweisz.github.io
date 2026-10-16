@@ -21,3 +21,14 @@ html[data-theme="dark"] {
 .publications ol.bibliography li .abbr abbr[style] * {
   color: white !important;
 }
+
+// Project cards: al_folio_core wraps the GitHub icon in a .row whose negative margins push it
+// outside the card's padding. Line it up with the text and pin it to the bottom of the card.
+.projects .card .card-body {
+  display: flex;
+  flex-direction: column;
+
+  > .row {
+    margin: auto 0 0;
+  }
+}

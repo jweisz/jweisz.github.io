@@ -6,7 +6,6 @@ img: assets/img/projects/entanglion.jpg
 importance: 3
 category: open source
 github: https://github.com/Entanglion/entanglion
-github_stars: Entanglion/entanglion
 related_publications: true
 ---
 
