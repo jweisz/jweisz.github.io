@@ -2,7 +2,7 @@
 layout: page
 title: AI Attribution
 description: How much credit AI deserves for its contributions to people's work, and how to disclose AI use without stigma.
-importance: 4
+importance: 5
 category: research areas
 github: https://github.com/aiattribution/aiattribution.github.io
 related_publications: true

@@ -26,6 +26,8 @@ _Specialized, domain-specific AI systems that integrate into existing workflows.
 
 **AI for group ideation.** With [Koala and Collaborative Canvas](/projects/ai_for_designers/), we explored how an LLM-based agent can join a brainstorming group, and we developed a framework for designing an agent's participatory behaviors {% cite MullerHGBRMW24 HeHGMRMW24 HoudeBMRMGKFW25 %}.
 
+**AI for data science.** We studied how data scientists perceive and trust automated machine learning, and we built tools that keep humans in the loop of IBM AutoAI {% cite WangWMRGDTSG19 DrozdalWWDYZMJS20 WeideleWOMAGW20 %}. More is on the [AI for Data Scientists](/projects/ai_for_data_scientists/) page.
+
 **Design principles for generative AI.** I led a cross-IBM effort to distill research on human-AI collaboration and co-creation into principles and strategies for designing generative AI applications. This work was used to train 3,000+ IBM design practitioners {% cite WeiszHMHMG24 %}.
 
 **Human-centered explainable AI.** We showed that explanations of AI decisions should include _social_ context, such as who accepted or rejected a recommendation and why, alongside algorithmic explanations {% cite EhsanLMRW21 %}. This work helped launch the field of human-centered explainable AI (HCXAI), which we have grown through a workshop series at CHI {% cite EhsanWWMRWDRR23 EhsanWWMHSWR25 EhsanAHLRW26 %}. I also co-organized the HAI-GEN workshop series on human-AI co-creation with generative models at IUI from 2021 to 2025.
@@ -36,7 +38,7 @@ _Specialized, domain-specific AI systems that integrate into existing workflows.
 
 _Identifying the risks that arise from using AI systems, and helping developers determine which risks and mitigations apply to their use cases._
 
-**AI risk.** The guidance we wrote on the risks of generative AI was adopted by IBM's AI Ethics Board and became the first version of the [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas). More recently, we interviewed people who build AI agents about how they perceive and prioritize the risks of agentic AI.
+**AI risk.** My [AI risk and potential harms](/projects/ai_risk_and_harms/) work spans the topics below. The guidance we wrote on the risks of generative AI was adopted by IBM's AI Ethics Board and became the first version of the [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas). More recently, we interviewed people who build AI agents about how they perceive and prioritize the risks of agentic AI.
 
 **Factuality and transparency.** We studied how visual factuality indicators and source attributions help people judge the reliability of LLM output {% cite DoOGMWW25 abs-2405-20434 %}.
 

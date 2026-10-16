@@ -2,7 +2,7 @@
 layout: page
 title: Mutual Theory of Mind
 description: Helping people and AI agents build accurate models of each other, studied through the cooperative party game Wavelength.
-importance: 3
+importance: 6
 category: research areas
 related_publications: true
 ---
