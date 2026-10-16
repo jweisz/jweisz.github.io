@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI Risk & Potential Harms
-description: Identifying the risks of generative and agentic AI, from the IBM AI Risk Atlas to factuality and contextual privacy.
+description: Identifying the risks of generative and agentic AI, from the IBM AI Risk Atlas to factuality and privacy.
 importance: 4
 category: research areas
 related_publications: true
@@ -21,11 +21,11 @@ LLMs can produce output that sounds confident but is wrong. We studied how visua
 
 {% cite DoOGMWW25 abs-2405-20434 %}
 
-## Contextual privacy
+## Privacy
 
-People can overshare sensitive information with conversational agents, and agents can pass that information along in ways people don't expect. We developed methods that protect people from oversharing with conversational agents, and a way to evaluate contextual privacy across agentic workflows.
+New technologies, from drones to AI agents, can erode people's privacy in ways they don't expect. Earlier, we studied how drones affect people's privacy expectations and how technology can help preserve them. More recently, we turned to contextual privacy: people can overshare sensitive information with conversational agents, and agents can pass that information along in ways people don't anticipate. We developed methods that protect people from oversharing with conversational agents, and a way to evaluate contextual privacy across agentic workflows.
 
-{% cite NgongK0MWDR25 abs-2603-04902 %}
+{% cite NgongK0MWDR25 abs-2603-04902 UchidiunoMW18 %}
 
 ## Trust and alignment
 

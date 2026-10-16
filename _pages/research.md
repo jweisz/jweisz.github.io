@@ -42,7 +42,7 @@ _Identifying the risks that arise from using AI systems, and helping developers 
 
 **Factuality and transparency.** We studied how visual factuality indicators and source attributions help people judge the reliability of LLM output {% cite DoOGMWW25 abs-2405-20434 %}.
 
-**Contextual privacy.** We developed methods that protect people from oversharing sensitive information with conversational agents and that evaluate contextual privacy across agentic workflows {% cite NgongK0MWDR25 abs-2603-04902 %}.
+**Privacy.** We developed methods that protect people from oversharing sensitive information with conversational agents and that evaluate contextual privacy across agentic workflows {% cite NgongK0MWDR25 abs-2603-04902 %}.
 
 **Attribution and disclosure.** We studied how much credit people think AI deserves for its contributions to creative work {% cite HeHW25 %}. We then built the [AI Attribution Toolkit](/projects/ai_attribution/) and examined what makes people more comfortable disclosing their use of AI {% cite HeADW26 %}.
 
