@@ -32,3 +32,10 @@ html[data-theme="dark"] {
     margin: auto 0 0;
   }
 }
+
+// Project card thumbnails share one shape; crop from the top so titles in the artwork stay visible
+.projects .card img.card-img-top {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: top;
+}
