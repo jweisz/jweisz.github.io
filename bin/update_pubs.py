@@ -41,6 +41,11 @@ CARRY_FIELDS = [
     "poster", "video", "blog", "html", "supp", "abstract", "google_scholar_id",
 ]
 # DBLP venue key -> badge abbreviation (colors live in _data/venues.yml)
+# DBLP author names that jekyll-scholar misparses, rewritten as "Last, First"
+NAME_FIXES = {
+    "Dar{\\'{\\i}}o Andr{\\'{e}}s Silva Moran": "Silva Moran, Darío Andrés",
+}
+
 VENUES = {
     "aies": "AIES", "acl": "ACL", "chiplay": "CHI PLAY", "chiwork": "CHIWORK", "comsnets": "COMSNETS",
     "cscw": "CSCW", "cui": "CUI", "fat": "FAccT", "facct": "FAccT", "icccrea": "ICCC", "icml": "ICML",
@@ -144,6 +149,9 @@ def to_site_entry(entry):
     if is_corr(entry["key"]) and "eprint" in f:
         out["arxiv"] = f["eprint"]
         f.pop("doi", None)
+    for bad, good in NAME_FIXES.items():
+        if "author" in f:
+            f["author"] = f["author"].replace(bad, good)
     for k, v in f.items():
         if k not in DROP_FIELDS and k not in out:
             out[k] = v
