@@ -39,3 +39,26 @@ html[data-theme="dark"] {
   object-fit: cover;
   object-position: top;
 }
+
+// Links in a page's description (under the title) look like links, not plain text
+.post-description a {
+  color: var(--global-theme-color);
+}
+
+// CV entries: al_folio_cv's list and date/location table pick up generic list bullets and
+// table-cell borders in v1. Drop them so each entry reads as one block.
+.cv .list-group {
+  list-style: none;
+  padding-left: 0;
+}
+
+.cv table.table-cv td {
+  border-top: none;
+  padding: 0 0 0.25rem;
+}
+
+// Line the date badges up on the left instead of centering them, and keep them inside the card
+.cv .date-column {
+  transform: none;
+  text-align: left !important;
+}
