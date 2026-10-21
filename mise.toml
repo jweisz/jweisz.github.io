@@ -33,3 +33,7 @@ run = [
   "bundle check >/dev/null || bundle install",
   "bundle exec jekyll build",
 ]
+
+[tasks.previews]
+description = "Make publication preview thumbnails from a folder of paper PDFs"
+run = "python3 -I bin/make_previews.py"

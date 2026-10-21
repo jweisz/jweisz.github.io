@@ -1,0 +1,11 @@
+# Per-paper settings for bin/make_previews.py (mise run previews <folder>).
+# One line per bib key:
+#   KEY  page=2 crop=0.05,0.45   # render page 2, from 5% to 45% of its height
+#   KEY  crop=full               # render the whole page
+#   KEY  nopdf                   # never host the PDF on the site
+
+# Paywalled: do not host these PDFs
+WeiszHM25handbook  nopdf   # Springer handbook chapter
+GowdaMDCW17        nopdf   # COMSNETS (Springer)
+CodenLHTBMSWPLL16  nopdf   # IBM Journal of Research and Development
+Weisz09            nopdf   # IGI Global book chapter

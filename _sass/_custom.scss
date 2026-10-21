@@ -83,9 +83,38 @@ html[data-theme="dark"] {
   white-space: normal;
 }
 
-// Trophy in front of award labels on publications ("🏆 Best Paper")
-.publications .links a.award.btn::before {
-  content: "🏆 ";
+// Icons on publication buttons, from the Font Awesome and Academicons fonts the theme
+// already loads. The theme gives most buttons no classes, so match on their links.
+.publications .links a.btn {
+  &:hover {
+    text-decoration: none;
+  }
+  &::before {
+    font-family: "Font Awesome 7 Free";
+    font-weight: 900;
+    margin-right: 0.3em;
+  }
+  &.award::before {
+    content: "\f091"; // trophy
+  }
+  &.bibtex::before {
+    content: "\f10d"; // quote-left
+  }
+  &[href*="/assets/pdf/"]::before,
+  &[href$=".pdf"]::before {
+    content: "\f1c1"; // file-pdf
+  }
+  &[href^="https://doi.org/"]::before,
+  &[href^="http://arxiv.org/abs/"]::before {
+    font-family: "Academicons";
+    font-weight: 400;
+  }
+  &[href^="https://doi.org/"]::before {
+    content: "\e97e"; // ai-doi
+  }
+  &[href^="http://arxiv.org/abs/"]::before {
+    content: "\e974"; // ai-arxiv
+  }
 }
 
 // Space between the GitHub and website icons on project cards (_includes/projects.liquid)
