@@ -6,6 +6,7 @@ img: assets/img/projects/tjbot.jpg
 importance: 1
 category: open source
 github: https://github.com/tjbot-ce/tjbot
+website: https://tjbot-ce.github.io
 related_publications: true
 ---
 

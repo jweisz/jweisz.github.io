@@ -3,9 +3,10 @@ layout: page
 title: Idea Gauntlet
 description: Pitch an idea and defend it against a gauntlet of AI critics. A game that shows how AI can sharpen critical thinking.
 img: assets/img/projects/idea-gauntlet.png
-importance: 2
+importance: 3
 category: open source
 github: https://github.com/jweisz/idea-gauntlet
+website: https://idea-gauntlet.onrender.com
 related_publications: false
 ---
 

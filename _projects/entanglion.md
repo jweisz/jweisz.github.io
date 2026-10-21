@@ -3,9 +3,10 @@ layout: page
 title: Entanglion
 description: The world's first open source board game for teaching the fundamental principles of quantum computing.
 img: assets/img/projects/entanglion.jpg
-importance: 3
+importance: 2
 category: open source
 github: https://github.com/Entanglion/entanglion
+website: https://entanglion.github.io
 related_publications: true
 ---
 

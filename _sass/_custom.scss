@@ -62,3 +62,33 @@ html[data-theme="dark"] {
   transform: none;
   text-align: left !important;
 }
+
+// Give the date column room for the badge and location, let the entry text take the rest,
+// and wrap long locations instead of letting them run into the job title
+@media (min-width: 576px) {
+  .cv .date-column {
+    flex: 0 0 11rem;
+    max-width: 11rem;
+    width: auto;
+  }
+
+  .cv .date-column + div {
+    flex: 1 1 0;
+    max-width: none;
+    min-width: 0;
+  }
+}
+
+.cv .date-column .location {
+  white-space: normal;
+}
+
+// Trophy in front of award labels on publications ("🏆 Best Paper")
+.publications .links a.award.btn::before {
+  content: "🏆 ";
+}
+
+// Space between the GitHub and website icons on project cards (_includes/projects.liquid)
+.projects .card .github-icon + .website-icon {
+  margin-left: 0.5rem;
+}

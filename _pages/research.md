@@ -44,7 +44,7 @@ In 2022, interactions with code-fluent language models mostly took the form of "
 
 We later studied the use and impact of watsonx Code Assistant across the enterprise. Its most common use case was not generating code but _explaining_ it {% cite WeiszKMBGHB25 %}, which underscored the importance of our parallel work on [personalized code explanations](#personalized-code-explanations).
 
-We have also used speculative design to think about where AI-assisted software engineering is headed. This includes a design fiction about the value tensions of pair programming with an AI {% cite MullerRHAMRTW22 MullerWHR24 %} and [Story Arena](/projects/story_arena/), a multi-agent environment in which AI models write stories about the future of software engineering {% cite abs-2511-05410 %}.
+We have also used speculative design to think about where AI-assisted software engineering is headed. This includes a design fiction about the value tensions of pair programming with an AI {% cite MullerRHAMRTW22 MullerWHR24 %} and [Story Arena](/projects/story_arena/), a multi-agent environment in which AI agents write stories about the future of software engineering {% cite abs-2511-05410 %}.
 
 ### AI for designers and group ideation
 
