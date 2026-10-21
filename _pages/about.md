@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Human-Centered AI Research Scientist · AI Startup Advisor · ACM Senior Member
+subtitle: Human-Centered AI Researcher · AI Startup Advisor · ACM Senior Member
 
 profile:
   align: right

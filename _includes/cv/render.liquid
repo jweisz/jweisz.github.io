@@ -261,8 +261,8 @@
         {% assign empty_array = '' | split: ',' %}
         {% assign work = site.data.resume.work | default: empty_array %}
         {% assign vol = site.data.resume.volunteer | default: empty_array %}
-        {% comment %} Local override: volunteer renders as its own Service section below {% endcomment %}
-        {% assign combined_experience = work | al_cv_sort_by_date %}
+        {% comment %} Local override: volunteer renders as its own Service section below; work keeps resume.json order {% endcomment %}
+        {% assign combined_experience = work %}
         {% if combined_experience.size > 0 %}
           <a class="anchor" id="experience"></a>
           <div class="card mt-3 p-3">

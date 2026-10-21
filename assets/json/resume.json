@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Justin D. Weisz, Ph.D.",
-    "label": "Human-Centered AI Research Scientist",
+    "label": "Human-Centered AI Researcher",
     "email": "web@jweisz.org",
     "url": "https://jweisz.org/",
     "summary": "Research leader in human-centered AI focused on designing useful, safe, and personal AI systems that amplify and augment human capabilities. ACM Senior Member with numerous publications in top-tier HCI & AI venues including CHI, IUI, CSCW, FAccT, AIES, ICML, and IJCAI. Research topics span human-AI collaboration & co-creativity; agentic AI; responsible & human-centered explainable AI (HCXAI); and AI risk, governance, and evaluation. Versed in qualitative, quantitative, prototyping, crowdsourcing, and speculative design methods, with extensive experience collaborating with AI & ML researchers, engineers, product managers, and designers to prototype the future and deliver research insights into shipped products.",
@@ -130,6 +130,16 @@
       ]
     },
     {
+      "name": "IBM T.J. Watson Research Center",
+      "position": "Research Intern, Social Computing Group (2005) & Enhanced Web Experience Group (2004)",
+      "location": "Hawthorne, NY",
+      "startDate": "2004",
+      "endDate": "2005",
+      "highlights": [
+        "Across two internships, applied qualitative, quantitative, and visualization methods to examine use of IBM Community Tools (ICT), an instant messaging platform supporting topical group chats."
+      ]
+    },
+    {
       "name": "Carnegie Mellon University",
       "position": "Graduate Research Assistant",
       "location": "Pittsburgh, PA",
@@ -139,16 +149,6 @@
         "Examined the experience of conversing while watching online videos via controlled experiments and field studies, and identified social benefits of group-based online video watching for both friends and strangers, despite distractive aspects of chat.",
         "Designed a new visual representation of large-scale online audiences.",
         "Built applications for viewing and broadcasting video on End System Multicast, a novel peer-to-peer overlay network."
-      ]
-    },
-    {
-      "name": "IBM T.J. Watson Research Center",
-      "position": "Research Intern, Social Computing Group (2005) & Enhanced Web Experience Group (2004)",
-      "location": "Hawthorne, NY",
-      "startDate": "2004",
-      "endDate": "2005",
-      "highlights": [
-        "Across two internships, applied qualitative, quantitative, and visualization methods to examine use of IBM Community Tools (ICT), an instant messaging platform supporting topical group chats."
       ]
     }
   ],
