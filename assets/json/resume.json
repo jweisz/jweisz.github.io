@@ -85,9 +85,7 @@
       "location": "Yorktown Heights, NY",
       "startDate": "2018",
       "endDate": "2019",
-      "highlights": [
-        "Developed a research agenda to train users to have effective interactions with conversational AI."
-      ]
+      "highlights": ["Developed a research agenda to train users to have effective interactions with conversational AI."]
     },
     {
       "name": "IBM T.J. Watson Research Center",
@@ -105,9 +103,7 @@
       "location": "Yorktown Heights, NY",
       "startDate": "2015",
       "endDate": "2016",
-      "highlights": [
-        "Led a cross-disciplinary team to produce novel mobile & wearable solutions in healthcare and UAV solutions in agriculture."
-      ]
+      "highlights": ["Led a cross-disciplinary team to produce novel mobile & wearable solutions in healthcare and UAV solutions in agriculture."]
     },
     {
       "name": "IBM T.J. Watson Research Center",
@@ -183,10 +179,7 @@
       "studyType": "B.S.",
       "startDate": "1999",
       "endDate": "2003",
-      "courses": [
-        "Graduated with University and SCS College Honors",
-        "Senior Honors Thesis: Detecting Cheaters in a Distributed Multiplayer Game"
-      ]
+      "courses": ["Graduated with University and SCS College Honors", "Senior Honors Thesis: Detecting Cheaters in a Distributed Multiplayer Game"]
     }
   ],
   "awards": [
@@ -523,12 +516,7 @@
     {
       "name": "AI / ML",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Agentic AI & LLM frameworks",
-        "LLM memory & context engineering",
-        "Post-training, evals & LLM-as-a-Judge",
-        "RAG"
-      ]
+      "keywords": ["Agentic AI & LLM frameworks", "LLM memory & context engineering", "Post-training, evals & LLM-as-a-Judge", "RAG"]
     },
     {
       "name": "Human-Computer Interaction",
@@ -544,11 +532,7 @@
     {
       "name": "Development",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python, R, TypeScript",
-        "Agile & open source",
-        "AI-assisted coding"
-      ]
+      "keywords": ["Python, R, TypeScript", "Agile & open source", "AI-assisted coding"]
     },
     {
       "name": "Leadership",

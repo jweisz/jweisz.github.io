@@ -23,5 +23,3 @@ CardKit is a programming framework for developing IoT applications using a **car
 </div>
 
 The [CardKit GitHub organization](https://github.com/CardKit/) has the core framework, a runtime, card libraries for drones (including DJI drones) and Watson AI services, and a sample drone app.
-
-
