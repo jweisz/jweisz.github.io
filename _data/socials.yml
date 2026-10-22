@@ -28,6 +28,10 @@ github_username: jweisz # your GitHub user name
 # leetcode_id: # your LeetCode id
 linkedin_username: jweisz3 # your LinkedIn user name
 mastodon_username: hci.social/@jweisz # your mastodon instance+username in the format instance.tld/@username
+human_centered_ai: # the Human-Centered AI publication on Medium
+  logo: fa-brands fa-medium
+  title: Human-Centered AI on Medium
+  url: https://medium.com/human-centered-ai/
 # medium_username: # your Medium username
 orcid_id: 0000-0003-2228-2398 # your ORCID ID
 # osf_id: # your OSF ID

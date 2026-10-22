@@ -136,3 +136,19 @@ strong {
 .card-text {
   font-weight: 300;
 }
+
+// Social icons under the about page subtitle (_layouts/about.liquid), smaller and left-aligned
+// instead of the theme's large centered row at the bottom of the page
+.social.social-top {
+  text-align: left;
+  margin: -0.25rem 0 1.5rem; // pull up toward the subtitle, which has a 1rem bottom margin
+
+  .contact-icons {
+    font-size: 1.6rem;
+    line-height: 1;
+
+    a + a {
+      margin-left: 0.4rem;
+    }
+  }
+}

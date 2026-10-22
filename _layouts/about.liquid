@@ -12,6 +12,16 @@ layout: default
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
+    {% comment %}
+      Local override: social icons sit under the subtitle instead of at the bottom of the page, and go through
+      al_email_protect so the email icon has no plain mailto:
+    {% endcomment %}
+    {% if page.social %}
+      {% capture social_html %}{% social_links %}{% endcapture %}
+      <div class="social social-top">
+        <div class="contact-icons">{{ social_html | al_email_protect_html }}</div>
+      </div>
+    {% endif %}
   </header>
 
   <article>
@@ -62,17 +72,6 @@ layout: default
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
-    {% endif %}
-
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        {% comment %} Local override: run social links through al_email_protect so the email icon has no plain mailto: {% endcomment %}
-        {% capture social_html %}{% social_links %}{% endcapture %}
-        <div class="contact-icons">{{ social_html | al_email_protect_html }}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
     {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}

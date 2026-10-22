@@ -30,15 +30,16 @@ Hi, I'm Justin! I study how to design AI systems that **amplify and augment** hu
 - **[Safe AI](/research/#safe-ai)**: How do we help the people who build and use AI understand its risks and choose the right mitigations?
 - **[Personal AI](/research/#personal-ai)**: How can AI model its users' goals, knowledge, and intentions, and make those models visible so that people and AI develop a _mutual_ understanding?
 
-I'm a mixed-methods researcher: I combine qualitative studies, prototyping, controlled experiments, crowdsourcing, and speculative design.
+I'm a mixed-methods researcher and combine qualitative studies, prototyping, controlled experiments, crowdsourcing, and speculative design to **envision the future** and **turn research insights into shipped products**.
 
 After my Ph.D. in Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/), I spent over fifteen years at **IBM Research**, where I co-led our global research strategy on Human-Centered Trustworthy AI and managed the Human-AI Collaboration team. My contributions include:
 
-- training 3,000+ IBM design practitioners in [designing generative AI applications](https://dl.acm.org/doi/10.1145/3613904.3642466)
-- adding new risks from generative AI to the [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas)
-- developing & evaluating conversational programming assistants, such as the [Programmer's Assistant](/research/#ai-for-software-engineering) and the [Agentic Code Explorer](/research/#personalized-code-explanations), which informed the design of [watsonx Code Assistant](https://cloud.ibm.com/docs/watsonx-code-assistant)
-- teaching hundreds of thousands of students and makers about AI and quantum computing through [TJBot](/projects/tjbot/) and [Entanglion](/projects/entanglion/)
+- developing & evaluating **conversational programming assistants**, including the [Programmer's Assistant](/research/#ai-for-software-engineering) and the [Agentic Code Explorer](/research/#personalized-code-explanations), which informed the design of IBM's [watsonx Code Assistant](https://cloud.ibm.com/docs/watsonx-code-assistant)
+- training 3,000+ IBM design practitioners in **designing generative AI applications** via [design principles and strategies](https://dl.acm.org/doi/10.1145/3613904.3642466) and new design thinking activities and workshops
+- **building research communities** at the intersection of HCI and AI through workshop series on human-AI co-creation ([HAI-GEN](https://hai-gen.github.io/2025)), human-centered explainable AI ([HCXAI](https://hcxai.jimdosite.com)), and theory of mind in human-AI interaction ([ToMinHAI](https://tominhai-cui2025.github.io)), and the [Human-Centered AI](https://medium.com/human-centered-ai) publication on Medium
+- adding **new risks from generative AI** to the [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas)
+- teaching hundreds of thousands of students and makers about **AI and quantum computing** through [TJBot](/projects/tjbot/) and [Entanglion](/projects/entanglion/)
 
-I hold 35+ US patents and was named an IBM Master Inventor. I've co-organized long-running workshop series on human-AI co-creation ([HAI-GEN](https://hai-gen.github.io/2025)), human-centered explainable AI ([HCXAI](https://hcxai.jimdosite.com)), and theory of mind in human-AI interaction ([ToMinHAI](https://tominhai-cui2025.github.io)), and I founded the [Human-Centered AI](https://medium.com/human-centered-ai) publication on Medium.
+I hold 35+ US patents and was named an IBM Master Inventor.
 
-Today, I bring my experience in human-centered AI research, product strategy, and research leadership to startups as an advisor.
+Today, I bring my experience in human-centered AI research, product strategy, intellectual property, and research leadership as an advisor to pre-seed and seed-stage startups.
