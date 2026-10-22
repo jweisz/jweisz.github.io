@@ -163,7 +163,7 @@ def to_site_entry(entry):
 # ---------------------------------------------------------------------------
 
 def fetch_dblp():
-    req = urllib.request.Request(DBLP_URL, headers={"User-Agent": "jweisz.org publication sync (web@jweisz.org)"})
+    req = urllib.request.Request(DBLP_URL, headers={"User-Agent": "jweisz.org publication sync (hello@jweisz.org)"})
     try:
         with urllib.request.urlopen(req, timeout=60) as resp:
             text = resp.read().decode("utf-8")

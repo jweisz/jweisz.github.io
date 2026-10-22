@@ -2,7 +2,7 @@
   "basics": {
     "name": "Justin D. Weisz, Ph.D.",
     "label": "Human-Centered AI Researcher",
-    "email": "web@jweisz.org",
+    "email": "hello@jweisz.org",
     "url": "https://jweisz.org/",
     "summary": "Research leader in human-centered AI focused on designing useful, safe, and personal AI systems that amplify and augment human capabilities. ACM Senior Member with numerous publications in top-tier HCI & AI venues including CHI, IUI, CSCW, FAccT, AIES, ICML, and IJCAI. Research topics span human-AI collaboration & co-creativity; agentic AI; responsible & human-centered explainable AI (HCXAI); and AI risk, governance, and evaluation. Versed in qualitative, quantitative, prototyping, crowdsourcing, and speculative design methods, with extensive experience collaborating with AI & ML researchers, engineers, product managers, and designers to prototype the future and deliver research insights into shipped products.",
     "location": {
@@ -65,7 +65,7 @@
         "Led cross-organization and cross-disciplinary teams to develop & evaluate prototype systems for human-AI collaboration & co-creativity in software engineering and design.",
         "Worked hands-on with product teams to translate design prototypes and research findings into new product features and measure the productivity impact of AI.",
         "Educated 3,000+ design practitioners on designing effective and safe generative AI user experiences by developing training materials, delivering seminars, and crafting new design thinking methods.",
-        "Wrote the first version of the <a href=\"https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas\">IBM AI Risk Atlas</a>.",
+        "Added new risks from generative AI to the <a href=\"https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas\">IBM AI Risk Atlas</a>.",
         "Directly managed a team of 10+ researchers, software engineers, and designers. Provided career development, mentoring & coaching, and performance evaluation."
       ]
     },

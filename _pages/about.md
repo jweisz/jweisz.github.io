@@ -34,10 +34,10 @@ I'm a mixed-methods researcher: I combine qualitative studies, prototyping, cont
 
 After my Ph.D. in Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/), I spent over fifteen years at **IBM Research**, where I co-led our global research strategy on Human-Centered Trustworthy AI and managed the Human-AI Collaboration team. My contributions include:
 
-- [Design Principles for Generative AI Applications](https://dl.acm.org/doi/10.1145/3613904.3642466) and design thinking exercises that trained 3,000+ IBM design practitioners to use AI as a design material
-- the first version of the [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas)
-- conversational programming assistants, such as the [Programmer's Assistant](/research/#ai-for-software-engineering) and the [Agentic Code Explorer](/research/#personalized-code-explanations), which informed the design of [watsonx Code Assistant](https://cloud.ibm.com/docs/watsonx-code-assistant)
-- open source projects such as [TJBot](/projects/tjbot/) and [Entanglion](/projects/entanglion/), which have taught hundreds of thousands of students and makers about AI and quantum computing
+- training 3,000+ IBM design practitioners in [designing generative AI applications](https://dl.acm.org/doi/10.1145/3613904.3642466)
+- adding new risks from generative AI to the [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas)
+- developing & evaluating conversational programming assistants, such as the [Programmer's Assistant](/research/#ai-for-software-engineering) and the [Agentic Code Explorer](/research/#personalized-code-explanations), which informed the design of [watsonx Code Assistant](https://cloud.ibm.com/docs/watsonx-code-assistant)
+- teaching hundreds of thousands of students and makers about AI and quantum computing through [TJBot](/projects/tjbot/) and [Entanglion](/projects/entanglion/)
 
 I hold 35+ US patents and was named an IBM Master Inventor. I've co-organized long-running workshop series on human-AI co-creation ([HAI-GEN](https://hai-gen.github.io/2025)), human-centered explainable AI ([HCXAI](https://hcxai.jimdosite.com)), and theory of mind in human-AI interaction ([ToMinHAI](https://tominhai-cui2025.github.io)), and I founded the [Human-Centered AI](https://medium.com/human-centered-ai) publication on Medium.
 

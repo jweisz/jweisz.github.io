@@ -72,7 +72,7 @@ _Identifying the risks that arise from using AI systems, and helping both develo
 
 ### Mapping the risks of AI
 
-The guidance we wrote on the risks of generative AI was adopted by IBM's AI Ethics Board and became the first version of the [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas). More recently, we interviewed people who build AI agents about how they perceive and prioritize the risks of agentic AI. I also co-organized the AgentCraft workshop on developing trustworthy agentic AI systems at IUI 2026 {% cite DinakarWLG26 %}.
+The guidance we wrote on the risks of generative AI was adopted by IBM's AI Ethics Board, and we added new generative AI risks to the [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas). More recently, we interviewed people who build AI agents about how they perceive and prioritize the risks of agentic AI. I also co-organized the AgentCraft workshop on developing trustworthy agentic AI systems at IUI 2026 {% cite DinakarWLG26 %}.
 
 ### Factuality and transparency
 
@@ -137,6 +137,6 @@ Who deserves credit when people create with generative AI? In a scenario-based s
 _Useful AI · Personal AI_
 {: .theme-tags}
 
-Software engineers differ in how they process information, how they learn, and how confident they feel with technology, so a one-size-fits-all explanation of code won't serve all of them. We investigated how explanations could be tailored to these individual differences in problem-solving style, and we asked software engineers what they want explanations to contain {% cite abs-2607-17022 abs-2503-11018 BrachmanG0HMW25 %}.
+Software engineers differ in how they process information, how they learn, and how confident they feel with technology, so a one-size-fits-all explanation of code won't serve all of them. We investigated how explanations could be tailored to these individual differences in problem-solving style, and we asked software engineers what they want explanations to contain {% cite AndersonPWBV26 abs-2503-11018 BrachmanG0HMW25 %}.
 
 In parallel with the development of watsonx Code Assistant, we built the **Agentic Code Explorer (ACE)** and shared its ideas with the product team. ACE combines retrieval-augmented generation with user modeling to produce personalized code explanations and to support "co-investigation" of a codebase between a developer and an AI agent {% cite MoranBGHMBW25 %}. Our study of watsonx Code Assistant later reinforced the need for this work: explaining code was its most common use, yet many users felt its explanations were too verbose or poorly suited to their needs {% cite WeiszKMBGHB25 %}.
