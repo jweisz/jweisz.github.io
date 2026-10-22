@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a **human-centered AI researcher** and **startup advisor**. One lesson runs through my work: AI doesn't have to be perfect to be useful, but _you can't just hand people AI and expect them to become more productive_. AI has to fit into people's workflows, minimize harm, and adapt to the people using it. Those three needs shape my research:
+Hi, I'm Justin! I study how to design AI systems that **amplify and augment** human capabilities. One lesson runs through my work: AI doesn't have to be perfect to be useful, but _you can't just hand people AI and expect them to become more productive_. AI has to fit into people's workflows, minimize harm, and adapt to the people using it. Those three needs shape my research:
 
 - **[Useful AI](/research/#useful-ai)**: How do we build AI that fits into people's workflows and makes them more productive, in areas such as software engineering, design, and data science?
 - **[Safe AI](/research/#safe-ai)**: How do we help the people who build and use AI understand its risks and choose the right mitigations?

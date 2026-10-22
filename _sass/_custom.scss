@@ -121,3 +121,18 @@ html[data-theme="dark"] {
 .projects .card .github-icon + .website-icon {
   margin-left: 0.5rem;
 }
+
+// Body text in IBM Plex Sans Light, which stays legible at 300 where Roboto Light
+// does not. The font is loaded in _config.yml (third_party_libraries.google_fonts).
+body {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+b,
+strong {
+  font-weight: 600;
+}
+// The theme sets project cards to Regular; match the rest of the body text
+.card-title,
+.card-text {
+  font-weight: 300;
+}
