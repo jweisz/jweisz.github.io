@@ -1,10 +1,8 @@
 name: Update Google Scholar Citations
 
+# Manual runs only: the site shows no citation badges (no bib entry has a google_scholar_id),
+# and scheduled runs added commits to main that had to be pulled before every push
 on:
-  schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
 jobs:
